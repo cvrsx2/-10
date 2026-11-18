@@ -8,5 +8,6 @@ int main()
     cout << "*\t";
     cout << "String\n1";
     cout << "String\n66";
+    cout << "5*5\n";
     return 0;
 }
