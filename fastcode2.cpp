@@ -9,5 +9,6 @@ int main()
     cout << "String\n1";
     cout << "String\n66";
     cout << "5*5\n";
+    cout << "66/33\n";
     return 0;
 }
