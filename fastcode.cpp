@@ -7,6 +7,7 @@ int main()
     cout << "3";
     cout << "*\t";
     cout << "String\n1";
-    cout << "String9999\n;"
+    cout << "String9999\n";
+	cout << "885885\n";
     return 0;
 }
